@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "932026894476",
+    "firebase_url": "https://nuudiya-e066c-default-rtdb.firebaseio.com",
+    "project_id": "nuudiya-e066c",
+    "storage_bucket": "nuudiya-e066c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932026894476:android:f40fffe2f8c6de7c56d3a9",
+        "android_client_info": {
+          "package_name": "com.ckh.nu_udi_ya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932026894476-gue5v1odvf40c4rt7b16c92aclto39pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANgSm_OSTPQh3F5tikMYer5bvwcd1ny6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932026894476-gue5v1odvf40c4rt7b16c92aclto39pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
