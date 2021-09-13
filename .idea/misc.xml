@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/rlgns/AndroidStudioProjects/Nu_Udi_Ya/app/src/main/res/drawable/ic_baseline_back_to_login_24.xml" value="0.14583333333333334" />
         <entry key="..\:/Users/rlgns/AndroidStudioProjects/Nu_Udi_Ya/app/src/main/res/drawable/radius.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/rlgns/AndroidStudioProjects/Nu_Udi_Ya/app/src/main/res/layout/activity_location_edit.xml" value="0.176" />
         <entry key="..\:/Users/rlgns/AndroidStudioProjects/Nu_Udi_Ya/app/src/main/res/layout/activity_login.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/rlgns/AndroidStudioProjects/Nu_Udi_Ya/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/rlgns/AndroidStudioProjects/Nu_Udi_Ya/app/src/main/res/layout/activity_splash.xml" value="0.25" />
       </map>
     </option>

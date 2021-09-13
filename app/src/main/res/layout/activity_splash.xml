@@ -14,7 +14,7 @@
             android:layout_height="250dp"
             android:background="@drawable/radius"
             android:gravity="center"
-            android:text="너어\n디야"
+            android:text="어서\n만나"
             android:textColor="#F4F4F3"
             android:textSize="80dp"
             android:textStyle="bold"
